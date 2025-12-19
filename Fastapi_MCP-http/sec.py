@@ -1,7 +1,7 @@
 from fastmcp import FastMCP
 
 
-mcp = FastMCP(name="Calculator")
+mcp = FastMCP(name="Calculator-stdio")
 
 
 @mcp.tool()

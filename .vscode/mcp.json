@@ -1,0 +1,18 @@
+//first
+{
+    "servers": {
+        "calculator-sdtio":{
+            "command": "python",
+            "args": [
+                "Fastapi_MCP-http/sec.py"
+            ],
+        },
+        "ferecodecamp - sdtio":{
+            "command": "python",
+            "args": [
+                "FastMCPHTTP/main.py"
+            ],
+        }
+    }
+}
+

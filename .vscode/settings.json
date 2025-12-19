@@ -1,0 +1,10 @@
+{
+    "chat.mcp.serverSampling": {
+        "Mcp/.vscode/mcp.json: ferecodecamp - sdtio": {
+            "allowedModels": [
+                "copilot/auto",
+                "copilot/gpt-5"
+            ]
+        }
+    }
+}
